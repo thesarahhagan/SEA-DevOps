@@ -17,6 +17,8 @@ With ever-increasing stress in the workplace, many individuals suffer from work-
 
 * [Helping Remote Workers Avoid Loneliness and Burnout](https://hbr.org/2018/11/helping-remote-workers-avoid-loneliness-and-burnout) by Jennifer Moss in Harvard Business Review
 
+* [Self-care isn't enough.](https://mashable.com/article/community-care-versus-self-care/) by Heather Dockray on Mashable 
+
 ## Some scientific research about burnout:
 * An article about the benefits of mindfulness, particularly related to burnout by [Davis & Hayes (2011)](https://pdfs.semanticscholar.org/3646/36ce2cd368649068389c6998d582bc58f374.pdf)
 
