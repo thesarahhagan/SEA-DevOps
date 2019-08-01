@@ -24,6 +24,10 @@ With ever-increasing stress in the workplace, many individuals suffer from work-
 
 * The effectiveness of mindfulness-based interventions for mental health: [Spijkerman, Pots, & Bohlmeijer (2016)](https://www.sciencedirect.com/science/article/pii/S0272735815300623) and [Zernicke et al., 2014](https://journals.lww.com/psychosomaticmedicine/Abstract/2014/05000/A_Randomized_Wait_List_Controlled_Trial_of.4.aspx)
 
+* The Negativity Bias, Medical Education, and the Culture of Academic Medicine (an article that mentions how a negativity bias can affect negatively affect burnout by [Haizlip et al, 2012](https://journals.lww.com/academicmedicine/Fulltext/2012/09000/Perspective__The_Negativity_Bias,_Medical.19.aspx)
+
+* Sources of social support and burnout: A meta-analytic test of the conservation of resources model by [Halbesleben, 2006](https://psycnet.apa.org/record/2006-11397-012)
+
 * Evidence that shorter and more frequent vacations are better than less frequent, longer ones by [Nawijn et al., 2010](https://link.springer.com/article/10.1007%2Fs11482-009-9091-9)
 
 * The works of [Dr. Christina Maslach](https://www.researchgate.net/profile/Christina_Maslach), leading researcher on burnout in the workplace
