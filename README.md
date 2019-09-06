@@ -7,6 +7,8 @@ With ever-increasing stress in the workplace, many individuals suffer from work-
 ## Some articles about burnout:
 * [How to Recognize Burnout Before You're Burned Out](https://www.nytimes.com/2017/09/05/smarter-living/workplace-burnout-symptoms.html) by Kenneth Rosen in the New York Times
 
+* [Feeling burned out at work? Here’s how you can take back your life.](https://www.vox.com/the-highlight/2019/8/30/20836366/work-stress-how-to-talk-to-boss-millennial-burnout) by Rachel Wilkerson Miller in Vox
+
 * [How Passion Can Lead to Burnout](https://hbr.org/2019/07/when-passion-leads-to-burnout) by Jennifer Moss in Harvard Business Review
 
 * [Burnout and the Brain](https://www.psychologicalscience.org/observer/burnout-and-the-brain) by Alexandra Michel in Psychological Science
