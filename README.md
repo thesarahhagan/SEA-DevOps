@@ -22,6 +22,8 @@ With ever-increasing stress in the workplace, many individuals suffer from work-
 * [Self-care isn't enough.](https://mashable.com/article/community-care-versus-self-care/) by Heather Dockray on Mashable 
 
 ## Some scientific research about burnout:
+* [Only the overworked die young](https://www.health.harvard.edu/blog/only-the-overworked-die-young-201512148815), a Harvard Health Blog that includes current research on overworking, burnout, and health problems associated with both
+
 * An article about the benefits of mindfulness, particularly related to burnout by [Davis & Hayes (2011)](https://pdfs.semanticscholar.org/3646/36ce2cd368649068389c6998d582bc58f374.pdf)
 
 * The effectiveness of mindfulness-based interventions for mental health: [Spijkerman, Pots, & Bohlmeijer (2016)](https://www.sciencedirect.com/science/article/pii/S0272735815300623) and [Zernicke et al., 2014](https://journals.lww.com/psychosomaticmedicine/Abstract/2014/05000/A_Randomized_Wait_List_Controlled_Trial_of.4.aspx)
