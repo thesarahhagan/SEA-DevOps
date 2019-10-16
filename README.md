@@ -23,6 +23,8 @@ With ever-increasing stress in the workplace, many individuals suffer from work-
 
 * [Gender differences in engineers' burnout](https://www.emerald.com/insight/content/doi/10.1108/02610150810916749/full/html) by Ronen & Pines (2008). Article is behind a paywall, so [holler at me](mailto:thesarahhagan@gmail.com) and I'll email the PDF to you. 
 
+* [Job burnout and couple burnout in dual-erner couples in the sandwiched generation](https://www.semanticscholar.org/paper/Job-Burnout-and-Couple-Burnout-in-Dual-earner-in-Pines-Neal/abd83e9346dfb0e0ec29a4ce09cca8c18e149d61) by Pines et al. (2011). Article is not currently behind a paywall; click "View PDF"!
+
 ## Some scientific research about burnout:
 * [Only the overworked die young](https://www.health.harvard.edu/blog/only-the-overworked-die-young-201512148815), a Harvard Health Blog that includes current research on overworking, burnout, and health problems associated with both
 
