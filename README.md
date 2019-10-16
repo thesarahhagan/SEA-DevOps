@@ -21,6 +21,8 @@ With ever-increasing stress in the workplace, many individuals suffer from work-
 
 * [Self-care isn't enough.](https://mashable.com/article/community-care-versus-self-care/) by Heather Dockray on Mashable 
 
+* [Gender differences in engineers' burnout](https://www.emerald.com/insight/content/doi/10.1108/02610150810916749/full/html) by Ronen & Pines (2008). Article is behind a paywall, so [holler at me](mailto:thesarahhagan@gmail.com) and I'll email the PDF to you. 
+
 ## Some scientific research about burnout:
 * [Only the overworked die young](https://www.health.harvard.edu/blog/only-the-overworked-die-young-201512148815), a Harvard Health Blog that includes current research on overworking, burnout, and health problems associated with both
 
